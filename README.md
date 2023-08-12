@@ -2,8 +2,8 @@
 
 ### 🔗 Links
 
-- Solution URL: [Click here]()
-- Live Site URL: [Click here]()
+- Solution URL: [Click here](https://github.com/NehalSahu8055/Day-7-Lazy-Loading)
+- Live Site URL: [Click here](https://lazy-loading-nehal.netlify.app/)
 
 ### 🛠️ Built with
 
