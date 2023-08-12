@@ -1,4 +1,4 @@
-# <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="25"/> Day 7 - Lazy Loading
+# <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="25"/> Day 7 | Slide in on Scroll
 
 ### 🔗 Links
 
@@ -15,12 +15,13 @@
 
 ### 📜 What I learnt?
 
-- Basic Lazy Loading
+- Animations
+- Scrolling
 
 
 
 ### 📚 Useful resources
-- [Lazy Loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading) - For learning lazy loading
+
 - [Tailwind Css](https://tailwindcss.com/) - For learning tailwind.
 - [Vanilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - For learning JS
 
